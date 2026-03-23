@@ -1,0 +1,408 @@
+﻿{
+    "kw":  {
+               "labelEn":  "Kuwait",
+               "labelAr":  "الكويت",
+               "agents":  [
+
+                          ]
+           },
+    "eg":  {
+               "labelEn":  "Egypt",
+               "labelAr":  "مصر",
+               "agents":  [
+
+                          ]
+           },
+    "sa":  {
+               "labelEn":  "Saudi Arabia",
+               "labelAr":  "السعودية",
+               "agents":  [
+                              {
+                                  "Name":  "Digital Map",
+                                  "Address":  " . الرياض",
+                                  "Phone1":  "2172111 11 966+",
+                                  "Phone2":  "500446464 966+",
+                                  "Phone3":  null,
+                                  "Email1":  "Ceo@digitalmap.me",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  "www.digitalmap.me",
+                                  "Fax":  "2176868 11 966+",
+                                  "Country":  "المملكة العربية السعودية"
+                              },
+                              {
+                                  "Name":  "مؤسسة الأرز العالمية . Cedar",
+                                  "Address":  " . جدة . الحمراء جانب مستشفى الملك فهد",
+                                  "Phone1":  "26612214 966+",
+                                  "Phone2":  "54634071 966+",
+                                  "Phone3":  null,
+                                  "Email1":  "info@cedar-intgroup.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  "www.cedar-intgroup.com",
+                                  "Fax":  "26613873 966+",
+                                  "Country":  "المملكة العربية السعودية"
+                              },
+                              {
+                                  "Name":  "شركة سماء النظم لتقنية المعلومات",
+                                  "Address":  ". المدينة المنورة . شارع خالد بن الوليد ( السبع مساجد) . قبل دوار القبلتين . بجوار محطة نفط",
+                                  "Phone1":  "0517215 50 966+",
+                                  "Phone2":  "8220320 14 966+",
+                                  "Phone3":  null,
+                                  "Email1":  null,
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "المملكة العربية السعودية"
+                              }
+                          ]
+           },
+    "qa":  {
+               "labelEn":  "Qatar",
+               "labelAr":  "قطر",
+               "agents":  [
+
+                          ]
+           },
+    "so":  {
+               "labelEn":  "Somalia",
+               "labelAr":  "الصومال",
+               "agents":  [
+
+                          ]
+           },
+    "mr":  {
+               "labelEn":  "Mauritania",
+               "labelAr":  "موريتانيا",
+               "agents":  [
+
+                          ]
+           },
+    "ae":  {
+               "labelEn":  "United Arab Emirates",
+               "labelAr":  "الإمارات",
+               "agents":  [
+                              {
+                                  "Name":  "عبد الله محمد الحريري",
+                                  "Address":  "- أبو ظبي - الشعبية",
+                                  "Phone1":  "526757327 971+",
+                                  "Phone2":  null,
+                                  "Phone3":  null,
+                                  "Email1":  "abd1998alaahareree@gmail.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "لإمارات العربية المتحدة"
+                              },
+                              {
+                                  "Name":  "SAH_B لتجارة الكمبيوتر (سامي أبو حسن)",
+                                  "Address":  "- دبي - الديرة - بناء الشيخ محمد بن راشد آل مكتوم - مكتب 203",
+                                  "Phone1":  "554639516 971 +",
+                                  "Phone2":  "65483880 971 +",
+                                  "Phone3":  null,
+                                  "Email1":  "sahb.alkhazen@hotmail.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  "127717",
+                                  "Website":  null,
+                                  "Fax":  "43514098 971 +",
+                                  "Country":  "الإمارات العربية المتحدة"
+                              }
+                          ]
+           },
+    "eh":  {
+               "labelEn":  "Western Sahara",
+               "labelAr":  "الصحراء الغربية",
+               "agents":  [
+
+                          ]
+           },
+    "dj":  {
+               "labelEn":  "Djibouti",
+               "labelAr":  "جيبوتي",
+               "agents":  [
+
+                          ]
+           },
+    "lb":  {
+               "labelEn":  "Lebanon",
+               "labelAr":  "لبنان",
+               "agents":  [
+
+                          ]
+           },
+    "sd":  {
+               "labelEn":  "Sudan",
+               "labelAr":  "السودان",
+               "agents":  [
+
+                          ]
+           },
+    "om":  {
+               "labelEn":  "Oman",
+               "labelAr":  "عُمان",
+               "agents":  [
+
+                          ]
+           },
+    "tn":  {
+               "labelEn":  "Tunisia",
+               "labelAr":  "تونس",
+               "agents":  [
+
+                          ]
+           },
+    "dz":  {
+               "labelEn":  "Algeria",
+               "labelAr":  "الجزائر",
+               "agents":  [
+
+                          ]
+           },
+    "ye":  {
+               "labelEn":  "Yemen",
+               "labelAr":  "اليمن",
+               "agents":  [
+                              {
+                                  "Name":  "حلول التطوير والإنترنت السريعة (FADI Solutions)",
+                                  "Address":  " . صنعاء . شارع مقديشو (صخر) . أمام حديقة بلقيس",
+                                  "Phone1":  "00967777740707",
+                                  "Phone2":  null,
+                                  "Phone3":  null,
+                                  "Email1":  "info@fadisolutions.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  "www.fadisolutions.com",
+                                  "Fax":  null,
+                                  "Country":  "الجمهورية اليمنية"
+                              }
+                          ]
+           },
+    "bh":  {
+               "labelEn":  "Bahrain",
+               "labelAr":  "البحرين",
+               "agents":  [
+
+                          ]
+           },
+    "ps":  {
+               "labelEn":  "Palestine",
+               "labelAr":  "فلسطين",
+               "agents":  [
+
+                          ]
+           },
+    "ly":  {
+               "labelEn":  "Libya",
+               "labelAr":  "ليبيا",
+               "agents":  [
+                              {
+                                  "Name":  "مكتــب المنتصــر. محاسبون قانونيون",
+                                  "Address":  " . طرابلس",
+                                  "Phone1":  "213631419 218+",
+                                  "Phone2":  "913222685 218+",
+                                  "Phone3":  null,
+                                  "Email1":  "tariq@almontaser.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  "طرابلس - ليبيا 8535",
+                                  "Website":  "www.almontaser.com",
+                                  "Fax":  "213330737 218+",
+                                  "Country":  "الجمهورية الليبية"
+                              }
+                          ]
+           },
+    "sy":  {
+               "labelEn":  "Syria",
+               "labelAr":  "سوريا",
+               "agents":  [
+                              {
+                                  "Name":  "مركز الخازن للبرمجيات",
+                                  "Address":  " . دمشق . الروضة",
+                                  "Phone1":  "3313998 11 963+",
+                                  "Phone2":  null,
+                                  "Phone3":  null,
+                                  "Email1":  "info@alkhazensoft.com ",
+                                  "Email2":  "sales@alkhazensoft.com ",
+                                  "Email3":  "support@alkhazensoft.com ",
+                                  "POBox":  null,
+                                  "Website":  "www.alkhazensoft.com",
+                                  "Fax":  "25 - 3330234 11 963+",
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "مركز الخوارزمي للكمبيوتر",
+                                  "Address":  " . دمشق . السبع بحرات",
+                                  "Phone1":  "2318186 11 963+",
+                                  "Phone2":  "2312013 11 963+",
+                                  "Phone3":  null,
+                                  "Email1":  "kcc@scs-net.sy",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  "10798",
+                                  "Website":  null,
+                                  "Fax":  "2312763 11 963+",
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "الهندسية لخدمات الحواسيب",
+                                  "Address":  " . النبك . شارع المالكي . سوق الخضرة القديم",
+                                  "Phone1":  "7227519 11 963+",
+                                  "Phone2":  "662358 999 963+",
+                                  "Phone3":  null,
+                                  "Email1":  "info@ecs-sy.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "أموال للمحاسبة والتدقيق",
+                                  "Address":  " . حمص . شارع عبد الحميد الدروبي",
+                                  "Phone1":  "2466666 31 963+",
+                                  "Phone2":  "365991 944 963+",
+                                  "Phone3":  "684813 944 963+",
+                                  "Email1":  "amwalco@gmail.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "ماكس للتجارة والكمبيوتر . أنس البارودي",
+                                  "Address":  " . حماة . ساحة العاصي",
+                                  "Phone1":  "2512020 33 963+",
+                                  "Phone2":  null,
+                                  "Phone3":  null,
+                                  "Email1":  "cschama@gmail.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  "2517070 33 963+",
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "أسامة شحنة",
+                                  "Address":  " . إدلب . شارع الكنيسة",
+                                  "Phone1":  "257336 23 963+",
+                                  "Phone2":  "072980 944 963+",
+                                  "Phone3":  null,
+                                  "Email1":  "osamash83@gmail.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "مركز التطوير المهني. PDC. نهاد عمر",
+                                  "Address":  " . اللاذقية . شارع أنطاكيا\r\nنزلة معجنات عمار . مقابل مدرسة شريف الرضي",
+                                  "Phone1":  "213208 41 963+",
+                                  "Phone2":  "358779 944 963+",
+                                  "Phone3":  null,
+                                  "Email1":  "nihad-mo@scs-net.org",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  "235807 41 963+",
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "عبدالله محمد الحريري",
+                                  "Address":  ". درعا . الغاريه الغربيه",
+                                  "Phone1":  "٠٩٩٢٢٠٤٨٩٢",
+                                  "Phone2":  "٠٩٩٧٧٦٦٣٠٦",
+                                  "Phone3":  null,
+                                  "Email1":  "abd1998alaahareree@gmail.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "الجمهورية العربية السورية"
+                              },
+                              {
+                                  "Name":  "حسان سنيح",
+                                  "Address":  "السويداء - جنوب دوار المشنقة ١٠٠م بناء السنيح ط الاول",
+                                  "Phone1":  "253333 16 963+",
+                                  "Phone2":  null,
+                                  "Phone3":  null,
+                                  "Email1":  null,
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "الجمهورية العربية السورية"
+                              }
+                          ]
+           },
+    "ma":  {
+               "labelEn":  "Morocco",
+               "labelAr":  "المغرب",
+               "agents":  [
+
+                          ]
+           },
+    "km":  {
+               "labelEn":  "Comoros",
+               "labelAr":  "جزر القمر",
+               "agents":  [
+
+                          ]
+           },
+    "iq":  {
+               "labelEn":  "Iraq",
+               "labelAr":  "العراق",
+               "agents":  [
+                              {
+                                  "Name":  "المعالج الاول للحاسبات و الحلول البرمجية",
+                                  "Address":  "- بغداد - المنصور  - تقاطع الاميرات - بناية الجادرجي - \u003c/span\u003e\u003cbr\u003e\u003cspan style=\u0027margin-right:181px\u0027\u003e الطابق الرابع - مقابل المصعد . (مكتب البرمجة )\u003c/span\u003e\u003cbr\u003e\u003cbr\u003e\u003cspan style=\u0027margin-right:181px\u0027\u003e بغداد - المنصور  - تقاطع الاميرات - بناية الجادرجي -\u003c/span\u003e\u003cbr\u003e\u003cspan style=\u0027margin-right:181px\u0027\u003e الطابق الثاني . (مكتب الحاسبات و الشبكات)\u003c/span\u003e\u003cbr\u003e\u003cbr\u003e\u003cspan style=\u0027margin-right:181px\u0027\u003e بغداد - شارع الصناعة - مجمع الحارث الطابق الاول. (مكتب الدعم الفني)",
+                                  "Phone1":  "7708119994 964+",
+                                  "Phone2":  "7721101666 964+",
+                                  "Phone3":  null,
+                                  "Email1":  "Info@firstproceesor.net",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "جمهورية العراق"
+                              }
+                          ]
+           },
+    "jo":  {
+               "labelEn":  "Jordan",
+               "labelAr":  "الأردن",
+               "agents":  [
+                              {
+                                  "Name":  "الخازن المحترف للمحاسبة والبرمجيات",
+                                  "Address":  " . عمان . الجاردنز . مجمع قعبر التجاري . طابق خامس . مكتب رقم 1",
+                                  "Phone1":  "65682982 962 +",
+                                  "Phone2":  "795906847 962 +",
+                                  "Phone3":  null,
+                                  "Email1":  "Fjannan@alkhazensoft.com",
+                                  "Email2":  null,
+                                  "Email3":  null,
+                                  "POBox":  null,
+                                  "Website":  null,
+                                  "Fax":  null,
+                                  "Country":  "المملكة الأردنية الهاشمية"
+                              }
+                          ]
+           }
+}
